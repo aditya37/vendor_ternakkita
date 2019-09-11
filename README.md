@@ -1,1 +1,1 @@
-# Venndor Ternak Kita
+# Vendor Ternak Kita
