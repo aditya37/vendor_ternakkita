@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Mitra Ternak Kita</string>
+    <string name="title_activity_a_landing_page">a_landingPage</string>
 </resources>
